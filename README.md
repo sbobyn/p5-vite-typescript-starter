@@ -14,9 +14,9 @@ The project is created with [Vite](https://vitejs.dev/) via
 
 ## Demo
 
-The demo in `main.ts` was adapted from [this example](https://p5js.org/examples/input-easing.html)
-
 A live demo is available [here](https://sbobyn.github.io/p5-vite-typescript-starter/).
+
+The demo in `main.ts` was adapted from [this example](https://p5js.org/examples/input-easing.html)
 
 ![Demo pic](./demo.png)
 
