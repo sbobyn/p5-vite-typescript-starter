@@ -18,6 +18,8 @@ The demo in `main.ts` was adapted from [this example](https://p5js.org/examples/
 
 A live demo is available [here]().
 
+![Demo pic](./demo.png)
+
 ## Getting Started
 
 ### Installing
